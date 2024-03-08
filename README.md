@@ -61,5 +61,4 @@
 ###### Overall, this code effectively implements core functionalities of a Pacman game including character movement, collision detection, pathfinding for ghosts, and scorekeeping. The separation between HTML for structure, Javascript for logic, and potentially separate Javascript files for pacman and ghost behavior makes the code well-organized and maintainable.
 
 ![sample](sample.jpeg)
-![sample1](sample.png)
 ![finally](final.png)
